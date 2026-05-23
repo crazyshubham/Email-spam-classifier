@@ -9,6 +9,16 @@ A machine learning web app that detects whether a message is **Spam** or **Ham (
 👉 [Click here to try the app](https://aq6grlwz9isevu4pr2kmjw.streamlit.app)
 
 ---
+## Screenshots
+
+### Ham (Legitimate Message)
+![Ham](screenshots/Ham.png)
+
+### Spam Detection
+![Spam](screenshots/Spam.png)
+
+### App Overview
+![Overview](screenshots/1.png)
 
 ## 🧠 How It Works
 ```

@@ -11,14 +11,16 @@ A machine learning web app that detects whether a message is **Spam** or **Ham (
 ---
 ## Screenshots
 
+### App Overview
+![Overview](screenshots/1.png)
+
 ### Ham (Legitimate Message)
 ![Ham](screenshots/Ham.png)
 
 ### Spam Detection
 ![Spam](screenshots/Spam.png)
 
-### App Overview
-![Overview](screenshots/1.png)
+
 
 ## 🧠 How It Works
 ```
